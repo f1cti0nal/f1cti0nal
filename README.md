@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ravindra D.</h1>
 <h3 align="center">A Cyber Security Analyst | Security Researcher | Information Security Analyst</h3>
 
-- 📫 How to reach me **ravidholariya3992@gmail.com**
-
 - ⚡ Fun fact **Learn Relentlessly**
 
 <h3 align="left">Connect with me:</h3>
